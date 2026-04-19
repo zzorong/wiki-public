@@ -7,35 +7,35 @@
       "evidence_count": 1,
       "latest_updated": "2026-04-19",
       "primary_tag": "#skill/transformer",
-      "link": "https://zzorong.github.io/wiki-public/_index/by-tag/skill-transformer"
+      "link": "https://zzorong.github.io/wiki-public/tags/skill/transformer"
     },
     {
       "name": "RAG 구축",
       "evidence_count": 0,
       "latest_updated": null,
       "primary_tag": "#skill/rag",
-      "link": "https://zzorong.github.io/wiki-public/_index/by-tag/skill-rag"
+      "link": "https://zzorong.github.io/wiki-public/tags/skill/rag"
     },
     {
       "name": "Fine-tuning",
       "evidence_count": 0,
       "latest_updated": null,
       "primary_tag": "#skill/fine-tuning",
-      "link": "https://zzorong.github.io/wiki-public/_index/by-tag/skill-fine-tuning"
+      "link": "https://zzorong.github.io/wiki-public/tags/skill/fine-tuning"
     },
     {
       "name": "Prompt Engineering",
       "evidence_count": 0,
       "latest_updated": null,
       "primary_tag": "#skill/prompt-engineering",
-      "link": "https://zzorong.github.io/wiki-public/_index/by-tag/skill-prompt-engineering"
+      "link": "https://zzorong.github.io/wiki-public/tags/skill/prompt-engineering"
     },
     {
       "name": "LLM 평가",
       "evidence_count": 0,
       "latest_updated": null,
       "primary_tag": "#skill/llm-evaluation",
-      "link": "https://zzorong.github.io/wiki-public/_index/by-tag/skill-llm-evaluation"
+      "link": "https://zzorong.github.io/wiki-public/tags/skill/llm-evaluation"
     }
   ]
 }
