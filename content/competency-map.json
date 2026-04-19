@@ -6,8 +6,8 @@
       "name": "Transformer 이해도",
       "evidence_count": 1,
       "latest_updated": "2026-04-19",
-      "primary_tag": "#skill/transformer",
-      "link": "https://zzorong.github.io/wiki-public/tags/skill/transformer"
+      "primary_tag": "#topic/attention",
+      "link": "https://zzorong.github.io/wiki-public/tags/topic/attention"
     },
     {
       "name": "RAG 구축",
