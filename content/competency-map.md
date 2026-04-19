@@ -7,3 +7,11 @@
 | Fine-tuning | [0 notes](./tags/skill/fine-tuning) | — |
 | Prompt Engineering | [0 notes](./tags/skill/prompt-engineering) | — |
 | LLM 평가 | [0 notes](./tags/skill/llm-evaluation) | — |
+| Claude Code & DX 자동화 | [0 notes](./tags/skill/dx-tooling) | — |
+| 데이터 수집 파이프라인 설계 | [0 notes](./tags/skill/scraping) | — |
+| Kafka 메시징 운영 | [0 notes](./tags/skill/kafka) | — |
+| AWS 인프라 운영 | [0 notes](./tags/skill/aws) | — |
+| Docker 빌드 최적화 | [0 notes](./tags/skill/docker) | — |
+| 메모리·성능 최적화 | [0 notes](./tags/skill/performance) | — |
+| 장애 대응 & 근본원인 분석 | [0 notes](./tags/skill/incident-response) | — |
+| 모니터링 & 운영 자동화 | [0 notes](./tags/skill/observability) | — |
